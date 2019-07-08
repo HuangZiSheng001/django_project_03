@@ -117,3 +117,5 @@ dmypy.json
 
 # XAdmin
 .mysite/extra_apps/xadmin
+
+./.idea
